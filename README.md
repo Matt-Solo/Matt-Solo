@@ -52,11 +52,6 @@ You can find screenshots and explanations of each lab and task in the `Projects`
 
 ---
 
-## 📬 Connect With Me
 
-- 🔗 [LinkedIn](#)  
-- 📧 Email: yourname@example.com  
-
----
 
 > “Cybersecurity is not just a job, it’s a mindset — and I’m here to grow every day.”
