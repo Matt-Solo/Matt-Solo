@@ -1,12 +1,12 @@
-# 👨‍💻 Cybersecurity Portfolio by Matthew Solomon
+👋 Hi there, I'm Matthew Solomon!
 
-Welcome to my cybersecurity learning and project portfolio. This repository showcases my journey from customer-focused roles into the world of cybersecurity — where I’m building the skills and hands-on experience to become a SOC Analyst.
-
----
+🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast | Always Learning
 
 ## 🚀 About Me
 
-I'm a driven and curious cybersecurity enthusiast, transitioning from a strong background in customer service and sales. I have completed:
+I’m an aspiring Security Analyst with hands-on experience in SOC fundamentals, network security, and threat detection. My learning journey includes practical labs through platforms like TryHackMe and the Google Cybersecurity Professional Certificate. I’m passionate about securing digital environments, understanding how attackers think, and staying one step ahead.
+
+
 
 - ✅ [Google Cybersecurity Professional Certificate](#)
 - ✅ SOC Level 1 and 2 Labs on TryHackMe
@@ -24,6 +24,16 @@ I'm a driven and curious cybersecurity enthusiast, transitioning from a strong b
 - Cloud Security Fundamentals (AWS)
 
 ---
+
+
+## 📚 Current Focus
+
+- Advancing SOC-level threat detection skills  
+- Linux system security & hardening  
+- Python for automation in cybersecurity  
+- Gaining industry certifications & real-world experience
+
+  
 
 ## 📁 Projects Included
 
