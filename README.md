@@ -1,6 +1,8 @@
-👋 Hi there, I'm Matthew Solomon!
+👋 Hi there, I'm Matthew Diepreye Solomon!
 
-🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast | Always Learning
+🔐 Aspiring SOC Analyst | LinkedIn: https://linkedin.com/in/matthew-solomon-29a53b89 | 
+TryHackMe: https://tryhackme.com/p/Matthew.D.Solomon | X (Twitter): https://x.com/diepreye7_d
+
 
 ## 🚀 About Me
 
