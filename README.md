@@ -34,15 +34,14 @@ I’m an aspiring Security Analyst with hands-on experience in SOC fundamentals,
 - Gaining industry certifications & real-world experience
 
   
-
 ## 📁 Projects Included
 
-| Project Title | Description | Tools Used |
-|---------------|-------------|-------------|
-| **A Day in the Life of a Junior SOC Analyst** | Simulated analyst workflow using SIEM tools and log investigation | TryHackMe, Splunk |
-| **Phishing Email Analysis Lab** | Dissected a phishing email and extracted IOCs | Google Cert, Wireshark |
-| **Basic Malware Analysis** | Static and behavioral analysis of a sample file | VirusTotal, Any.Run |
-| **Linux Security Hardening** | Configured a virtual machine with baseline security controls | Ubuntu, UFW, Auditd |
+| *Project Title*| *Description* | *Tools Used* |
+|------------------|------------------|----------------|
+| [**A Day in the Life of a Junior SOC Analyst**](https://github.com/Matt-Solo/A-Day-in-the-Life-of-a-SOC-Level-1-Analyst-TryHackMe-) | Simulated daily SOC operations including log investigation, alert triage, and threat detection using real-world scenarios | TryHackMe, Splunk, Google Cybersecurity Cert |
+| [**Phishing Email Analysis Lab**](https://github.com/Matt-Solo/SIEM-TryHackMe-Lab) | Analyzed a phishing email to identify indicators of compromise (IOCs) and understand attacker behavior | Google Cybersecurity Cert, Wireshark |
+| [**Basic Malware Analysis**](#) | Performed static and dynamic analysis on a malware sample to extract behavior and network artifacts | VirusTotal, Any.Run |
+| [**Linux Security Hardening**](#) | Hardened a Linux virtual machine by implementing baseline security controls and auditing configurations | Ubuntu, UFW, Auditd |
 
 ---
 
