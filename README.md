@@ -36,14 +36,16 @@ I’m an aspiring Security Analyst with hands-on experience in SOC fundamentals,
 - Gaining industry certifications & real-world experience
 
   
-## 📁 Projects Included
+#📁 Current Projects
 
-| *Project Title*| *Description* | *Tools Used* |
-|------------------|------------------|----------------|
-| [**A Day in the Life of a Junior SOC Analyst**](https://github.com/Matt-Solo/A-Day-in-the-Life-of-a-SOC-Level-1-Analyst-TryHackMe-) | Simulated daily SOC operations including log investigation, alert triage, and threat detection using real-world scenarios | TryHackMe, Splunk, Google Cybersecurity Cert |
-| [**Phishing Email Analysis Lab**](https://github.com/Matt-Solo/SIEM-TryHackMe-Lab) | Analyzed a phishing email to identify indicators of compromise (IOCs) and understand attacker behavior | Google Cybersecurity Cert, Wireshark |
-| [**Basic Malware Analysis**](#) | Performed static and dynamic analysis on a malware sample to extract behavior and network artifacts | VirusTotal, Any.Run |
-| [**Linux Security Hardening**](#) | Hardened a Linux virtual machine by implementing baseline security controls and auditing configurations | Ubuntu, UFW, Auditd |
+| 🧠 Project Title | 📄 Description | 🛠️ Tools Used | 🔗 GitHub URL |
+|------------------|----------------|----------------|----------------|
+| **A Day in the Life of a Junior SOC Analyst** | Simulated daily SOC operations including log investigation, alert triage, and threat detection using real-world scenarios. | TryHackMe, Splunk, Google Cybersecurity Certificate | [github.com/Matt-Solo/junior-soc-analyst-lab](https://github.com/Matt-Solo/junior-soc-analyst-lab) |
+| **Phishing Email Analysis Lab** | Analyzed a phishing email to identify indicators of compromise (IOCs) and understand attacker behavior. | Google Cybersecurity Certificate, Wireshark | [github.com/Matt-Solo/phishing-email-analysis](https://github.com/Matt-Solo/phishing-email-analysis) |
+| **Basic Malware Analysis** | Performed static and dynamic analysis on a malware sample to extract behavior and network artifacts. | VirusTotal, Any.Run, Task Manager | [github.com/Matt-Solo/basic-malware-analysis](https://github.com/Matt-Solo/basic-malware-analysis) |
+| **Linux Security Hardening** | Hardened a Linux virtual machine by implementing baseline security controls and auditing configurations. | Ubuntu, UFW, Auditd | [github.com/Matt-Solo/linux-security-hardening](https://github.com/Matt-Solo/linux-security-hardening) |
+| **SOC Analyst Fundamentals: Tools, Roles & Frameworks** | Overview of SOC tools, analyst roles, threat intelligence, and incident response frameworks like NIST and SANS. | Markdown, Security Frameworks | [github.com/Matt-Solo/soc-analyst-fundamentals](https://github.com/Matt-Solo/soc-analyst-fundamentals) |
+
 
 ---
 
