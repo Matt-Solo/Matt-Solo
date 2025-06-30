@@ -36,15 +36,13 @@ I’m an aspiring Security Analyst with hands-on experience in SOC fundamentals,
 - Gaining industry certifications & real-world experience
 
   
-## 📁 My Cybersecurity Projects
+## Current Projects
 
-| 🧠 Project Title | 📄 Description | 🛠️ Tools Used | 🔗 GitHub URL |
-|------------------|----------------|----------------|----------------|
-| **A Day in the Life of a Junior SOC Analyst** | Simulated daily SOC operations including log investigation, alert triage, and threat detection using real-world scenarios. | TryHackMe, Splunk, Google Cybersecurity Certificate | [View Repo](https://github.com/Matt-Solo/junior-soc-analyst-lab) |
-| **Phishing Email Analysis Lab** | Analyzed a phishing email to identify indicators of compromise (IOCs) and understand attacker behavior. | Google Cybersecurity Certificate, Wireshark | [View Repo](https://github.com/Matt-Solo/phishing-email-analysis) |
-| **Basic Malware Analysis** | Performed static and dynamic analysis on a malware sample to extract behavior and network artifacts. | VirusTotal, Any.Run, Task Manager | [View Repo](https://github.com/Matt-Solo/basic-malware-analysis) |
-| **Linux Security Hardening** | Hardened a Linux virtual machine by implementing baseline security controls and auditing configurations. | Ubuntu, UFW, Auditd | [View Repo](https://github.com/Matt-Solo/linux-security-hardening) |
-| **SOC Analyst Fundamentals: Tools, Roles & Frameworks** | Overview of SOC tools, analyst roles, threat intelligence, and incident response frameworks like NIST and SANS. | Markdown, Security Frameworks | [View Repo](https://github.com/Matt-Solo/soc-analyst-fundamentals) |
+| 🧠 Project Title                                 | 📄 Description                                                                                       | 🛠️ Tools Used                                      | 🔗 GitHub URL                                                       |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------|
+| A Day in the Life of a Junior SOC Analyst        | Simulated daily SOC operations including log investigation, alert triage, and threat detection using real-world scenarios. | TryHackMe, Splunk, Google Cybersecurity Certificate | [github.com/Matt-Solo/junior-soc-analyst-lab](https://github.com/Matt-Solo/junior-soc-analyst-lab)       |
+| SIEM TryHackMe Lab                               | Hands-on lab using Splunk to analyze Windows event logs, practice SPL queries, and investigate suspicious activities. | Splunk, Windows Event Logs, TryHackMe Virtual SOC Lab | [github.com/Matt-Solo/siem-tryhackme-lab](https://github.com/Matt-Solo/siem-tryhackme-lab)                 |
+| SOC Analyst Fundamentals: Tools, Roles & Frameworks | Overview of SOC tools, analyst roles, threat intelligence, and incident response frameworks like NIST and SANS.          | Markdown, Security Frameworks                      | [github.com/Matt-Solo/soc-analyst-fundamentals](https://github.com/Matt-Solo/soc-analyst-fundamentals)     |
 
 
 ---
