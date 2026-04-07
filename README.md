@@ -1,105 +1,73 @@
-👋 Hi there, I'm Matthew  Solomon!
+# 👋 Matthew Solomon — SOC Analyst Portfolio
 
-🔐 Aspiring SOC Analyst | LinkedIn: https://linkedin.com/in/matthew-solomon-29a53b89 | 
-TryHackMe: https://tryhackme.com/p/Matthew.D.Solomon | X (Twitter): https://x.com/diepreye7_d
-
+🔐 SOC Analyst (Entry-Level) | SIEM • Threat Detection • Incident Response
+🔗 LinkedIn: https://linkedin.com/in/matthew-solomon-29a53b89
+🧪 TryHackMe: https://tryhackme.com/p/MatthewSolomon
+🐦 X (Twitter): https://x.com/diepreye7_d
 
 ## 🚀 About Me
 
-I’m an aspiring Security Analyst with hands-on experience in SOC fundamentals, network security, and threat detection. My learning journey includes practical labs through platforms like TryHackMe and the Google Cybersecurity Professional Certificate. I’m passionate about securing digital environments, understanding how attackers think, and staying one step ahead.
+I am an aspiring Security Operations Center (SOC) Analyst with hands-on experience in **SIEM monitoring, alert triage, and incident investigation** across simulated enterprise environments.
+
+I have performed:
+
+* Security alert triage and investigation using Splunk and ELK
+* Log analysis across Windows Event Logs and Sysmon telemetry
+* Detection and correlation of suspicious activities
+* MITRE ATT&CK mapping and structured incident documentation
+
+I am passionate about understanding attacker behaviour and contributing to teams responsible for **detecting, analysing, and responding to security threats**.
 
 
+## 🛠️ Core Skills
 
-- ✅ [Google Cybersecurity Professional Certificate](#)
-- ✅ SOC Level 1 and 2 Labs on TryHackMe
-- ✅ Projects covering threat detection, phishing analysis, and network security
-
----
-
-## 🔐 Key Skills
-
-- Threat Hunting & Incident Response  
-- Network & Endpoint Security  
-- Linux & Windows Command Line  
-- Python for Security Automation  
-- SIEM tools (Splunk, Elastic Stack basics)  
-- Cloud Security Fundamentals (AWS)
-
----
-
-
-## 📚 Current Focus
-
-- Advancing SOC-level threat detection skills  
-- Linux system security & hardening  
-- Python for automation in cybersecurity  
-- Gaining industry certifications & real-world experience
-
-  
-# Current Projects
-
-| 🧠 Project Title | 📄 Description | 🛠️ Tools Used | 🔗 GitHub URL |
-|---|---|---|---|
-| **A Day in the Life of a Junior SOC Analyst** | Simulated daily SOC operations including log investigation, alert triage, and threat detection using real-world scenarios. | TryHackMe, Splunk, Google Cybersecurity Certificate | [View Repository](https://github.com/Matt-Solo/A-Day-in-the-Life-of-a-SOC-Level-1-Analyst-TryHackMe-) |
-| **SIEM TryHackMe Lab** | Hands-on lab using Splunk to analyze Windows event logs, practice SPL queries, and investigate suspicious activities. | Splunk, Windows Event Logs, TryHackMe Virtual SOC Lab | [View Repository](https://github.com/Matt-Solo/siem-tryhackme-lab) |
-| **SOC Analyst Fundamentals: Tools, Roles & Frameworks** | Overview of SOC tools, analyst roles, threat intelligence, and incident response frameworks like NIST and SANS. | Markdown, Security Frameworks | [View Repository](https://github.com/Matt-Solo/SOC-Analyst-Fundamentals-Tools-Roles-Incident-Response-Frameworks) |
-| **Setting up Elastic Cloud — SIEM & Log Monitoring Lab** | Elastic Cloud deployment for log collection, dashboarding, attack simulation, and detection engineering. | Elastic Cloud, Filebeat, Kibana, MITRE ATT&CK, Wireshark | [View Repository](https://github.com/Matt-Solo/Setting-up-Elastic-Cloud-SIEM-Log-Monitoring-Lab) |
-| **Windows Event Viewer Log Analysis** | Log analysis project using Windows Event Viewer for security event monitoring, filtering, and incident response. | Windows 10/11, Event Viewer, Event IDs, Screenshots, Log Filtering | [View Repository](https://github.com/Matt-Solo/windows-event-viewer-log-analysis) |
+* SIEM: Splunk, Elastic Stack (ELK)
+* Alert Triage & Incident Response
+* Log Analysis: Windows Event Logs, Sysmon
+* Threat Detection & Investigation
+* Frameworks: MITRE ATT&CK, NIST CSF
+* Tools: Wireshark, VirusTotal
+* Scripting: Python (basic automation)
 
 ---
 
-## 🎯 Skills Demonstrated
-- **Security Operations Center (SOC)** operations and analysis
-- **SIEM** platforms (Splunk, Elastic Stack)
-- **Log Analysis** and incident response
-- **Threat Detection** and investigation
-- **Security Frameworks** (NIST, SANS, MITRE ATT&CK)
-- **Cloud Security** deployment and monitoring
 
-## 📊 Project Statistics
-- **Total Projects**: 5
-- **Primary Focus**: SOC Analysis & SIEM
-- **Key Technologies**: Splunk, Elastic Stack, Windows Event Logs
-- **Frameworks**: NIST, SANS, MITRE ATT&CK
+## 📁 SOC Projects
+
+| Project Title                                                                                                                                                            | Description                                                                                                                                                               | Tools                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| **[SOC Tier 1 Workflow Simulation — Monitoring, Triage & Escalation](https://github.com/Matt-Solo/A-Day-in-the-Life-of-a-SOC-Level-1-Analyst-TryHackMe-)**               | Simulated end-to-end SOC Tier 1 operations including continuous alert monitoring, investigation, prioritization, escalation, and structured incident reporting.           | Splunk, TryHackMe               |
+| **[SIEM Alert Triage & Incident Investigation (Splunk & ELK)](https://github.com/Matt-Solo/siem-tryhackme-lab)**                                                         | Investigated security alerts using SIEM tools, performed log correlation, enriched indicators, mapped activity to MITRE ATT&CK, and documented incident response actions. | Splunk, ELK, Sysmon             |
+| **[Windows Event Log Investigation — Threat Detection & Analysis](https://github.com/Matt-Solo/windows-event-viewer-log-analysis)**                                      | Analysed Windows Event Logs and Sysmon telemetry to detect suspicious behaviour, identify attack patterns, and perform structured incident investigations.                | Event Viewer, Sysmon, SPL       |
+| **[Elastic SIEM Deployment & Log Monitoring — Detection Engineering Lab](https://github.com/Matt-Solo/Setting-up-Elastic-Cloud-SIEM-Log-Monitoring-Lab)**                | Deployed and configured an Elastic SIEM environment for centralized log ingestion, monitoring, alerting, and basic detection engineering use cases.                       | Elastic Cloud, Filebeat, Kibana |
+| **[SOC Operations & Incident Response — Tools, Workflows & Frameworks](https://github.com/Matt-Solo/SOC-Analyst-Fundamentals-Tools-Roles-Incident-Response-Frameworks)** | Documented SOC architecture, incident response lifecycle, and use of security tools aligned with MITRE ATT&CK and NIST frameworks.                                        | MITRE ATT&CK, NIST CSF          |
 
 ---
+## 📊 What I Bring to a SOC Team
 
-## 🎯 Skills Demonstrated
-- **Security Operations Center (SOC)** operations and analysis
-- **SIEM** platforms (Splunk, Elastic Stack)
-- **Log Analysis** and incident response
-- **Threat Detection** and investigation
-- **Security Frameworks** (NIST, SANS, MITRE ATT&CK)
-- **Cloud Security** deployment and monitoring
+* Ability to **triage and investigate alerts efficiently**
+* Strong **log analysis and correlation skills**
+* Clear and structured **incident documentation**
+* Hands-on experience with **SIEM tools and detection workflows**
+* Strong analytical thinking and attention to detail
 
-## 📊 Project Statistics
-- **Total Projects**: 5
-- **Primary Focus**: SOC Analysis & SIEM
-- **Key Technologies**: Splunk, Elastic Stack, Windows Event Logs
-- **Frameworks**: NIST, SANS, MITRE ATT&CK
+## 🎯 Current Focus
+
+* Improving detection engineering and alert tuning
+* Strengthening incident response capabilities
+* Advancing SIEM query optimization (Splunk SPL / KQL basics)
+* Preparing for real-world SOC environments
+
 ---
-
-## 🎯 Skills Demonstrated
-- **Security Operations Center (SOC)** operations and analysis
-- **SIEM** platforms (Splunk, Elastic Stack)
-- **Log Analysis** and incident response
-- **Threat Detection** and investigation
-- **Security Frameworks** (NIST, SANS, MITRE ATT&CK)
-- **Cloud Security** deployment and monitoring
-
-## 📊 Project Statistics
-- **Total Projects**: 5
-- **Primary Focus**: SOC Analysis & SIEM
-- **Key Technologies**: Splunk, Elastic Stack, Windows Event Logs
-- **Frameworks**: NIST, SANS, MITRE ATT&CK
----
-
 ## 📸 Screenshots
 
-You can find screenshots and explanations of each lab and task in the `Projects` folder.
-
----
+Screenshots and investigation evidence are included within each project repository.
 
 
+## 🎯 Career Goal
 
-> “Cybersecurity is not just a job, it’s a mindset — and I’m here to grow every day.”
+To join a Security Operations Center (SOC) team where I can contribute to **threat detection, incident response, and continuous security improvement** while growing into a highly skilled security analyst.
+
+
+
+> “Cybersecurity is not just a job — it’s a mindset, and I am committed to growing in it every day.”
