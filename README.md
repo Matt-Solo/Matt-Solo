@@ -1,6 +1,6 @@
 # 👋 Matthew Solomon — SOC Analyst Portfolio
 
-🔐 SOC Analyst (Entry-Level) | SIEM • Threat Detection • Incident Response
+🔐 SOC L1 Analyst| SIEM • Threat Detection • Incident Response
 🔗 LinkedIn: https://linkedin.com/in/matthew-solomon-29a53b89
 🧪 TryHackMe: https://tryhackme.com/p/MatthewSolomon
 🐦 X (Twitter): https://x.com/diepreye7_d
