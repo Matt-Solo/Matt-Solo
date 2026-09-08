@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am an aspiring Security Operations Center (SOC) Analyst with hands-on experience in **SIEM monitoring, alert triage, and incident investigation** across simulated enterprise environments.
+SOC Analyst with hands-on experience in SIEM monitoring, alert triage, threat detection and incident investigation — built across structured enterprise simulations and a live cybersecurity capstone internship.
 
 I have performed:
 
